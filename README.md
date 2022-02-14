@@ -1,3 +1,8 @@
+# Digital Business Card using React
+<div style="text-align:center">
+    <img src="./src/images/card.png" alt="Digital Business Card" width="275px"/>
+</div>
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
